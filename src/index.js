@@ -17,7 +17,7 @@ const setupAndStartServer = () => {
           
           // sendBasicEmail(
           //      'support@admin.com',
-          //      'sumanchaudhary720december@gmail.com',
+          //      'a@gmail.com',
           //      'This is a testing email',
           //      'ME ME ME'
           // )
