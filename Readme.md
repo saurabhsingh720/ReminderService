@@ -9,3 +9,4 @@
 - Then openned `app password`.
 - Then set the name and password and got a key of 16 characters.
 - we can use this key to sent the mail.
+- Then learned about `cron` (email automatic sending time scheduler).
