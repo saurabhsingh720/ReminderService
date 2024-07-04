@@ -1,0 +1,11 @@
+## Reminder Service
+- In this service we just setup our email sending mechanism.
+- The booking ticket is sent to mail of user.
+- In this we use SMTP server of gmail to sent the mail.
+- Firstly we have done all setup including adding of important packages of npm such as `express`, `dotenv`, `nodemon`, `nodemailer`, `body-parser`, `node`
+- Then we configured our files and folders to complete the basic setup.
+- Created new mail account and go to security section.
+- Then setupped two step verification.
+- Then openned `app password`.
+- Then set the name and password and got a key of 16 characters.
+- we can use this key to sent the mail.
