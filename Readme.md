@@ -10,3 +10,8 @@
 - Then set the name and password and got a key of 16 characters.
 - we can use this key to sent the mail.
 - Then learned about `cron` (email automatic sending time scheduler).
+- the email sending is set uped 
+- do `npx sequelize init` in src path
+- do `npx sequelize db:create` in src path
+- do `npx sequelize model:generate --name NotificationTicket --attributes subject:string,content:string,recepientEmail:string,status:enum,notificationTime:date`
+- do `npx sequelize db:migrate`
