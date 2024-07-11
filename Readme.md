@@ -15,3 +15,8 @@
 - do `npx sequelize db:create` in src path
 - do `npx sequelize model:generate --name NotificationTicket --attributes subject:string,content:string,recepientEmail:string,status:enum,notificationTime:date`
 - do `npx sequelize db:migrate`
+- setuped `rabbitmq`
+- Connected `rabbitmq` with our system
+- set path of environment varibles
+- setuped message queue system using rabbitmq.
+
